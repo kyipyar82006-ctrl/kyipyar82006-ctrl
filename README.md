@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Kyi Pyar Than! 👋
 
-<!--
-**kyipyar82006-ctrl/kyipyar82006-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Student
+I’m an IT student passionate about programming, computer science, and software development.
+I enjoy learning new technologies, solving computational problems, and building practical projects.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **University:** Myanmar Institute of Information Technology (MIIT)
+- **Major**: Computer Science and Engineering (CSE)
+- **Academic Status**: Completed First Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python Programming
+- MySQL Database Engineering
+- Data Structures & Algorithms
+- Software Architecture
+- Git & GitHub
+
+## 🎯 My Goals
+- Strengthen my programming fundamentals.
+- Improve computational problem-solving skills.
+- Build real-world software projects.
+
+## 📫 Connect with Me
+
+- Email: [kyipyar82006@gmail.com](mailto:kyipyar82006@gmail.com)
+- GitHub: [@kyipyar82006-ctrl](https://github.com/kyipyar82006-ctrl)
