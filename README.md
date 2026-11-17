@@ -1,5 +1,3 @@
-# Hi, I’m Kyi Pyar Than! 👋
-
 ### IT Student
 I’m an IT student passionate about programming, computer science, and software development.
 I enjoy learning new technologies, solving computational problems, and building practical projects.
